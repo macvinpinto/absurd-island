@@ -1,0 +1,27 @@
+{
+  "name": "absurd-island",
+  "version": "1.0.0",
+  "description": "REST API",
+  "main": "src/app.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macvinpinto/absurd-island.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "macvinpinto",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/macvinpinto/absurd-island/issues"
+  },
+  "homepage": "https://github.com/macvinpinto/absurd-island#readme"
+}
